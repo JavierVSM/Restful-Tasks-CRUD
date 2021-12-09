@@ -1,0 +1,12 @@
+.containerA{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px;
+    margin: 10px;
+}
+
+.containerB{
+    padding: 50px;
+}
